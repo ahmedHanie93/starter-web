@@ -9,4 +9,4 @@ hsvdjavdjsvda
 ## Ay7aga
 ## Description
 
-Sample website with plenty of files for demos
+Sample
