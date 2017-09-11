@@ -9,4 +9,6 @@ hsvdjavdjsvda
 ## Ay7aga
 ## Description
 
+###Copyrights
+Git.trainning all rights reserved.
 Sample
